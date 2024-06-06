@@ -1,0 +1,10 @@
+/__pycache__
+/data
+/model
+/pdfs
+/llama_gpu.py
+/llama_llmchain.py
+/llamaQA.py
+/main.py
+/mentalhealth.py
+/imagetotext.py
