@@ -1,5 +1,5 @@
 # LLama-2-PDF-summarizer-QA
-### Unclocking the power of LLama-2 for local Multi-Document Summarization and Chat with multiple Documents
+### Unlocking the power of LLama-2 for local Multi-Document Summarization and Chat with multiple Documents
 ## SETUP
 ### Download CudaToolKit-[https://developer.nvidia.com/cuda-11-8-0-download-archive]
 ### Download CMake-[https://cmake.org/download/]
